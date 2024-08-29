@@ -115,6 +115,7 @@ Onyi Ajoku😄 #My very first contribution! Excited for whats to come.******
 - [Abhinav Reddy](https://github.com/abhinavreddy05) **One of many to go**
 - [Darren Christie](https://github.com/TheGreatDefector/first-contributions) **Open Source FTW!**
 - [Sukrija Kararic](https://github.com/sukrijakararic) **Practicing some open source contributing**
+- [parag patil](https://github.com/covert-bot)**Starting open source**
 - [Maurik Angelo Fernandez](https://github.com/Maur1k) **My first contribution 3rd year IT Student**
 - [Nikhil Thakkar](https://github.com/nthakkar11) **New to Tech**
 - [Renaldy](https://github.com/laurentiusrenaldy27) **Hello World**
